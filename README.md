@@ -24,10 +24,10 @@
 
 <div align="center">
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelhamid1A&theme=tokyonight&show_icons=true" height=200 />
+  <img src="https://github-readme-stats.vercel.app/api?username=othmanehannoun&theme=tokyonight&show_icons=true" height=200 />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamid1A&langs_count=5&theme=tokyonight" height=200 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmanehannoun&langs_count=5&theme=tokyonight" height=200 />
 </a>
 <br>
 <a>
